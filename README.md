@@ -9,3 +9,5 @@ Trailer 2: https://www.youtube.com/watch?v=hlEpG-1rxe8
 Facebook page: https://www.facebook.com/runfornitro/ 
 
 Both trailers are in Polish!
+
+Run for Nitro was my first such a large game I've developed. It had been made with use of UnityEngine and C# scripting. 
