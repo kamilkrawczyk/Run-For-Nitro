@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6751336053560052098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6751336053560052097}
+  - component: {fileID: 6751336053560052096}
+  m_Layer: 0
+  m_Name: ControllerDialogue
+  m_TagString: DialogueController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6751336053560052097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6751336053560052098}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 388, y: 291.5, z: 0}
+  m_LocalScale: {x: 0.40773433, y: 0.40773433, z: 0.40773433}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6751336053560052096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6751336053560052098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51344a791cc1cd48ad9901c524a6c20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainUI: {fileID: 2086598806453859795, guid: 42a34f337617d764f92d7c66f91d0ff7, type: 3}
+  dialogueUI: {fileID: 0}
+  typewriter: {fileID: 0}
+  whichText: 0
+  portrait: {fileID: 0}
+  podpis: {fileID: 0}
+  cutsceneCanvas1: {fileID: 0}
+  majorPokojBG: {fileID: 0}
+  masterController: {fileID: 0}
+  portretMex: {fileID: 0}
+  portretMaj: {fileID: 2800000, guid: 34a6f05a675701849a7dceb4e09f0761, type: 3}
+  portretTomasz: {fileID: 2800000, guid: f05cf06d4caf2d0419b8c9c9d0243018, type: 3}
+  portretNero: {fileID: 0}
+  portretMario: {fileID: 2800000, guid: 869f3099c8ad5264b8d987a7cb426544, type: 3}
+  portretOrbit: {fileID: 0}
+  lvl2_startingCutscenePanel: {fileID: 0}
+  gameCamera: {fileID: 0}
+  jejebak: {fileID: 0}
+  lvl3NERO: {fileID: 0}
+  fadeIn: {fileID: 0}
+  mastercontroller5: {fileID: 0}

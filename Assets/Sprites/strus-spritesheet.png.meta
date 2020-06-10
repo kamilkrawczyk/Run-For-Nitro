@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: 02da120e3d5a6b040a61a739d2f3f49b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7240551790439283358
+    second: strus-spritesheet_0
+  - first:
+      213: 250775455875325214
+    second: strus-spritesheet_1
+  - first:
+      213: -5520042516196720377
+    second: strus-spritesheet_2
+  - first:
+      213: 474806821274775512
+    second: strus-spritesheet_3
+  - first:
+      213: 3725154932175254830
+    second: strus-spritesheet_4
+  - first:
+      213: 3122823117632460885
+    second: strus-spritesheet_5
+  - first:
+      213: -3874776298188157279
+    second: strus-spritesheet_6
+  - first:
+      213: 3514161525402406432
+    second: strus-spritesheet_7
+  - first:
+      213: 748257700055351794
+    second: strus-spritesheet_8
+  - first:
+      213: -4353301090154033268
+    second: strus-spritesheet_9
+  - first:
+      213: -5598012035255630534
+    second: strus-spritesheet_10
+  - first:
+      213: -5734688624443622118
+    second: strus-spritesheet_11
+  - first:
+      213: -617142792144404340
+    second: strus-spritesheet_12
+  - first:
+      213: -8590106784666758257
+    second: strus-spritesheet_13
+  - first:
+      213: 2852032617259609242
+    second: strus-spritesheet_14
+  - first:
+      213: -8272029505114525287
+    second: strus-spritesheet_15
+  - first:
+      213: -9049287236669023781
+    second: strus-spritesheet_16
+  - first:
+      213: 3760624071259578351
+    second: strus-spritesheet_17
+  - first:
+      213: -5953306786447447423
+    second: strus-spritesheet_18
+  - first:
+      213: -8580666161477757900
+    second: strus-spritesheet_19
+  - first:
+      213: -6177425641783060398
+    second: strus-spritesheet_20
+  - first:
+      213: 1704161409320962635
+    second: strus-spritesheet_21
+  - first:
+      213: 641109996114870700
+    second: strus-spritesheet_22
+  - first:
+      213: -5215344573837704872
+    second: strus-spritesheet_23
+  - first:
+      213: 3987128557104341995
+    second: strus-spritesheet_24
+  - first:
+      213: -4841684636829690363
+    second: strus-spritesheet_25
+  - first:
+      213: -2663801320249704170
+    second: strus-spritesheet_26
+  - first:
+      213: -4843095692060280539
+    second: strus-spritesheet_27
+  - first:
+      213: -2160187981984593628
+    second: strus-spritesheet_28
+  - first:
+      213: 3254640156466308997
+    second: strus-spritesheet_29
+  - first:
+      213: -8309708477402808765
+    second: strus-spritesheet_30
+  - first:
+      213: 803034418675425158
+    second: strus-spritesheet_31
+  - first:
+      213: -3174434165434146663
+    second: strus-spritesheet_32
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strus-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 40
+        height: 72
+      alignment: 9
+      pivot: {x: -0.18346536, y: 1.1552993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0856a7bf6f02ecd46b79370e8ea4135a
+      internalID: 7240551790439283358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 361
+        width: 37
+        height: 63
+      alignment: 9
+      pivot: {x: -0.21677935, y: 1.2414677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30442c75d33728c4abb5d5cfd1ef768e
+      internalID: 250775455875325214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 361
+        width: 37
+        height: 63
+      alignment: 9
+      pivot: {x: -0.20952854, y: 1.2519788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057d9d63d472804d86ff3797481d4cb
+      internalID: -5520042516196720377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 360
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4ed271af2418948aafc411fcb84bb4
+      internalID: 474806821274775512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 358
+        width: 42
+        height: 69
+      alignment: 9
+      pivot: {x: -0.14625223, y: 1.1759361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc51f3099d4dbf4da24ad548e0a45a2
+      internalID: 3725154932175254830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 361
+        width: 37
+        height: 63
+      alignment: 9
+      pivot: {x: -0.2528142, y: 1.2399786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831b524f0b6cfa41a4e917452d6d506
+      internalID: 3122823117632460885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 361
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ea7c5bcad660f439a4fdc5c5848641
+      internalID: -3874776298188157279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 277
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096aa9377e6a0d24fbae9dcfbc1c768a
+      internalID: 3514161525402406432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 277
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4b4f0faa7eceb4ab9a5fc011c40c5a
+      internalID: 748257700055351794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 277
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e006f01999a148b4d9d951c9215bce29
+      internalID: -4353301090154033268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 277
+        width: 37
+        height: 62
+      alignment: 9
+      pivot: {x: -0.09537197, y: 1.2516686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1c0717714551489bb59d3fb4a08b3
+      internalID: -5598012035255630534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 277
+        width: 40
+        height: 63
+      alignment: 9
+      pivot: {x: -0.07668877, y: 1.232201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0bc482896cd9f42a267c92cd7aa398
+      internalID: -5734688624443622118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 277
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67092696b1943e247b4d1bb800f6592b
+      internalID: -617142792144404340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445918beca0eec45b306f6d18e8b42d
+      internalID: -8590106784666758257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197773fd54d61314baf384819cdb0085
+      internalID: 2852032617259609242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03177185e10b22e49a6660403a77ea18
+      internalID: -8272029505114525287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 37
+        height: 62
+      alignment: 9
+      pivot: {x: -0.27793473, y: 1.2371206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e165cec8a8b86a44bf743ead2e9a2ff
+      internalID: -9049287236669023781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 193
+        width: 40
+        height: 63
+      alignment: 9
+      pivot: {x: -0.21144447, y: 1.2306645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476db53d88af8a479889955a29d65cc
+      internalID: 3760624071259578351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 193
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7997e89fc04d88499fdd8de19d83b89
+      internalID: -5953306786447447423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081052380e6031541b0f5807da470fdc
+      internalID: -8580666161477757900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 109
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da3f3b105bc57847822cdc0e8be6d66
+      internalID: -6177425641783060398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 109
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5101c5629c8a34790ea7c8ee2ff944
+      internalID: 1704161409320962635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 109
+        width: 47
+        height: 64
+      alignment: 9
+      pivot: {x: -0.16407938, y: 1.1984725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca7a20a9c531f42ab60622a878fb00
+      internalID: 641109996114870700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc39c25bf335d478fab3d04ae8c5c5
+      internalID: -5215344573837704872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 109
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da332ce4ded380498371ee51537024d
+      internalID: 3987128557104341995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f6d57486764744b51ff6948174c18
+      internalID: -4841684636829690363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 25
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4238396f12a344961b8425d21d699
+      internalID: -2663801320249704170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 25
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a1a28c1b16334ebcb018ca7e3235f
+      internalID: -4843095692060280539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 12
+        width: 52
+        height: 84
+      alignment: 9
+      pivot: {x: 0.09624745, y: 1.0678531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc5167baaaabad42946bd19c9a7f9b4
+      internalID: -2160187981984593628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a435d70b94112242bec7e42ef456dd3
+      internalID: 3254640156466308997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 25
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b643c061eb50b4987e549b4c5fb463
+      internalID: -8309708477402808765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 328
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd46631241b116049b6034703bf5bb8c
+      internalID: 803034418675425158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strus-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039196f0cf6d3f2499b5ab2f8c370884
+      internalID: -3174434165434146663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c278271ad5b2c840adc122a4a883aa3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
